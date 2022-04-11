@@ -3,7 +3,7 @@
 
 ## 1. 算法
 
-## 1.1 [回朔算法](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/回朔算法)
+## 1.1 [回溯算法](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/回朔算法)
 
 |                          力扣题目                           | 难度 | java代码 | python代码 |
 | :---------------------------------------------------------: | :--: | :------: | :--------: |
