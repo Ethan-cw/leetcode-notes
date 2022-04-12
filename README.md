@@ -3,21 +3,32 @@
 
 ## 1. 算法
 
-## 1.1 [回溯算法](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/回朔算法)
+### 1.1 [回溯算法](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/回朔算法)
 
 |  类型  |                           力扣题目                           | 难度 | java代码 | python代码 |
 | :----: | :----------------------------------------------------------: | :--: | :------: | :--------: |
 | 全排列 | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 中等 |    ☑️     |     ☑️      |
-| 全排列 |   [51. N 皇后](https://leetcode-cn.com/problems/n-queens)    |  难  |    ✖️     |     ☑️      |
-|  集合  | [698. 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | 中等 |    ☑️     |     ✖️      |
-|  子集  |     [78. 子集](https://leetcode-cn.com/problems/subsets)     | 中等 |    ☑️     |     ❌      |
-|  子集  |  [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii)  | 中等 |    ☑️     |     ❌      |
-|  组合  |  [77. 组合](https://leetcode-cn.com/problems/combinations)   | 中等 |    ☑️     |     ❌      |
-|  组合  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | 中等 |    ☑️     |     ❌      |
-|  组合  | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | 中等 |    ☑️     |     ❌      |
-|  组合  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | 中等 |    ☑️     |     ❌      |
-|  排列  | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 中等 |    ☑️     |     ❌      |
-|  排列  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | 中等 |    ☑️     |     ❌      |
+| 全排列 |   [51. N 皇后](https://leetcode-cn.com/problems/n-queens)    |  难  |    -     |     ☑️      |
+|  集合  | [698. 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | 中等 |    ☑️     |     -      |
+|  子集  |     [78. 子集](https://leetcode-cn.com/problems/subsets)     | 中等 |    ☑️     |     -      |
+|  子集  |  [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii)  | 中等 |    ☑️     |     -      |
+|  组合  |  [77. 组合](https://leetcode-cn.com/problems/combinations)   | 中等 |    ☑️     |     -      |
+|  组合  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | 中等 |    ☑️     |     -      |
+|  组合  | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | 中等 |    ☑️     |     -      |
+|  组合  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | 中等 |    ☑️     |     -      |
+|  排列  | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 中等 |    ☑️     |     -      |
+|  排列  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | 中等 |    ☑️     |     -      |
+
+### 1.2 DFS/BFS
+
+|                             力扣                             | 难度 | java代码 | python代码 |
+| :----------------------------------------------------------: | :--: | :------: | :--------: |
+| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | 中等 |    ☑️     |     -      |
+| [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands) | 中等 |    ☑️     |     -      |
+| [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves) | 中等 |    ☑️     |     -      |
+| [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | 中等 |    ☑️     |     -      |
+| [1905. 统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands) | 中等 |    ☑️     |     -      |
+| [694. 不同岛屿的数量](https://leetcode-cn.com/problems/number-of-distinct-islands)✨ | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
