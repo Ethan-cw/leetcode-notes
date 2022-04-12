@@ -18,6 +18,7 @@
 |  组合  | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii) | 中等 |    ☑️     |     -      |
 |  排列  | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 中等 |    ☑️     |     -      |
 |  排列  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | 中等 |    ☑️     |     -      |
+|  数独  | [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver) |  难  |    ☑️     |     -      |
 
 ### 1.2 [BFS-DFS](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/BFS-DFS)
 
