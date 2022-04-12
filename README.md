@@ -23,14 +23,17 @@
 
 ### 1.2 [BFS-DFS](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/BFS-DFS)
 
-|                             力扣                             | 难度 | java代码 | python代码 |
-| :----------------------------------------------------------: | :--: | :------: | :--------: |
-| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | 中等 |    ☑️     |     -      |
-| [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands) | 中等 |    ☑️     |     -      |
-| [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves) | 中等 |    ☑️     |     -      |
-| [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | 中等 |    ☑️     |     -      |
-| [1905. 统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands) | 中等 |    ☑️     |     -      |
-| [694. 不同岛屿的数量](https://leetcode-cn.com/problems/number-of-distinct-islands)✨ | 中等 |    ☑️     |     -      |
+| 类型 |                             力扣                             | 难度 | java代码 | python代码 |
+| ---- | :----------------------------------------------------------: | :--: | :------: | :--------: |
+| DFS  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | 中等 |    ☑️     |     -      |
+| DFS  | [1254. 统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands) | 中等 |    ☑️     |     -      |
+| DFS  | [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves) | 中等 |    ☑️     |     -      |
+| DFS  | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | 中等 |    ☑️     |     -      |
+| DFS  | [1905. 统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands) | 中等 |    ☑️     |     -      |
+| DFS  | [694. 不同岛屿的数量](https://leetcode-cn.com/problems/number-of-distinct-islands)✨ | 中等 |    ☑️     |     -      |
+| BFS  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | 简单 |    ☑️     |     -      |
+| BFS  | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | 中等 |    ☑️     |     -      |
+| BFS  | [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle) | 困难 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
