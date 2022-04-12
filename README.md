@@ -35,6 +35,13 @@
 | BFS  | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | 中等 |    ☑️     |     -      |
 | BFS  | [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle) | 困难 |    ☑️     |     -      |
 
+### 1.3 动态规划
+
+| 类型     |                             力扣                             | 难度 | java代码 | python代码 |
+| -------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
+| 动态规划 | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | 简单 |    ☑️     |     -      |
+| 动态规划 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
+
 ## 2. 数据结构
 
 暂无
