@@ -35,7 +35,7 @@
 | BFS  | [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | 中等 |    ☑️     |     -      |
 | BFS  | [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle) | 困难 |    ☑️     |     -      |
 
-### 1.3 动态规划
+### 1.3 [动态规划](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/动态规划)
 
 | 类型     |                             力扣                             | 难度 | java代码 | python代码 |
 | -------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
