@@ -19,7 +19,7 @@
 |  排列  | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | 中等 |    ☑️     |     -      |
 |  排列  | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | 中等 |    ☑️     |     -      |
 
-### 1.2 DFS/BFS
+### 1.2 [BFS-DFS](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/BFS-DFS)
 
 |                             力扣                             | 难度 | java代码 | python代码 |
 | :----------------------------------------------------------: | :--: | :------: | :--------: |
