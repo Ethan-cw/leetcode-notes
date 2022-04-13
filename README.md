@@ -37,10 +37,11 @@
 
 ### 1.3 [动态规划](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/动态规划)
 
-| 类型     |                             力扣                             | 难度 | java代码 | python代码 |
-| -------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
-| 动态规划 | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | 简单 |    ☑️     |     -      |
-| 动态规划 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
+| 类型             |                             力扣                             | 难度 | java代码 | python代码 |
+| ---------------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
+| 动态规划模版讲解 | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | 简单 |    ☑️     |     -      |
+| 动态规划模版讲解 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
+| 动态规划模版讲解 | [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
