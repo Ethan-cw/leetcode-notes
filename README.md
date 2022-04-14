@@ -43,6 +43,7 @@
 | 动态规划模版讲解  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
 | 动态规划模版讲解  | [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | 中等 |    ☑️     |     -      |
 | 回朔/动态规划比较 |  [494. 目标和](https://leetcode-cn.com/problems/target-sum)  | 中等 |    ☑️     |     -      |
+| 编辑距离          | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) |  难  |    ☑️     |     -      |
 
 ## 2. 数据结构
 
