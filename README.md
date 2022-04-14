@@ -47,6 +47,8 @@
 | 回朔/动态规划比较 |  [494. 目标和](https://leetcode-cn.com/problems/target-sum)  | 中等 |    ☑️     |     -      |
 | 编辑距离          | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) |  难  |    ☑️     |     -      |
 | 经典例题          | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |    ☑️     |     -      |
+| 子序列模版        | [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | 中等 |    ☑️     |     -      |
+| 子序列模版        | [1312. 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | 困难 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
