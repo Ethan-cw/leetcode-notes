@@ -41,9 +41,12 @@
 | ----------------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
 | 动态规划模版讲解  | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | 简单 |    ☑️     |     -      |
 | 动态规划模版讲解  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
+| 动态规划模版讲解  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | 中等 |    ☑️     |     -      |
+| 动态规划模版讲解  | [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | 困难 |    ☑️     |     -      |
 | 动态规划模版讲解  | [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | 中等 |    ☑️     |     -      |
 | 回朔/动态规划比较 |  [494. 目标和](https://leetcode-cn.com/problems/target-sum)  | 中等 |    ☑️     |     -      |
 | 编辑距离          | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) |  难  |    ☑️     |     -      |
+| 经典例题          | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
