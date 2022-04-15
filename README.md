@@ -52,6 +52,8 @@
 | 最长公共子序列    | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | 中等 |    ☑️     |     -      |
 | 最长公共子序列    | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 |    ☑️     |     -      |
 | 最长公共子序列    | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | 中等 |    ☑️     |     -      |
+| 子集背包          | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | 中等 |    ☑️     |     -      |
+| 完全背包          | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
