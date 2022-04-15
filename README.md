@@ -49,6 +49,9 @@
 | 经典例题          | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |    ☑️     |     -      |
 | 子序列模版        | [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | 中等 |    ☑️     |     -      |
 | 子序列模版        | [1312. 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | 困难 |    ☑️     |     -      |
+| 最长公共子序列    | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | 中等 |    ☑️     |     -      |
+| 最长公共子序列    | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 |    ☑️     |     -      |
+| 最长公共子序列    | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
