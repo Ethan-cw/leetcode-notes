@@ -37,26 +37,26 @@
 
 ### 1.3 [动态规划](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/动态规划)
 
-| 类型              |                             力扣                             | 难度 | java代码 | python代码 |
-| ----------------- | :----------------------------------------------------------: | :--: | :------: | :--------: |
+|       类型        |                             力扣                             | 难度 | java代码 | python代码 |
+| :---------------: | :----------------------------------------------------------: | :--: | :------: | :--------: |
 | 动态规划模版讲解  | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | 简单 |    ☑️     |     -      |
 | 动态规划模版讲解  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change) | 中等 |    ☑️     |     -      |
 | 动态规划模版讲解  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | 中等 |    ☑️     |     -      |
 | 动态规划模版讲解  | [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | 困难 |    ☑️     |     -      |
 | 动态规划模版讲解  | [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | 中等 |    ☑️     |     -      |
 | 回朔/动态规划比较 |  [494. 目标和](https://leetcode-cn.com/problems/target-sum)  | 中等 |    ☑️     |     -      |
-| 编辑距离          | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) |  难  |    ☑️     |     -      |
-| 经典例题          | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |    ☑️     |     -      |
-| 子序列模版        | [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | 中等 |    ☑️     |     -      |
-| 子序列模版        | [1312. 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | 困难 |    ☑️     |     -      |
-| 最长公共子序列    | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | 中等 |    ☑️     |     -      |
-| 最长公共子序列    | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 |    ☑️     |     -      |
-| 最长公共子序列    | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | 中等 |    ☑️     |     -      |
-| 子集背包          | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | 中等 |    ☑️     |     -      |
-| 完全背包          | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | 中等 |    ☑️     |     -      |
-| 简单游戏          | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | 中等 |    ☑️     |     -      |
-| 困难游戏          | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game) | 困难 |    ☑️     |     -      |
-| 困难游戏          | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 |    ☑️     |     -      |
+|     编辑距离      | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) |  难  |    ☑️     |     -      |
+|     经典例题      | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 |    ☑️     |     -      |
+|    子序列模版     | [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | 中等 |    ☑️     |     -      |
+|    子序列模版     | [1312. 让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | 困难 |    ☑️     |     -      |
+|  最长公共子序列   | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | 中等 |    ☑️     |     -      |
+|  最长公共子序列   | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 中等 |    ☑️     |     -      |
+|  最长公共子序列   | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | 中等 |    ☑️     |     -      |
+|     子集背包      | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | 中等 |    ☑️     |     -      |
+|     完全背包      | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | 中等 |    ☑️     |     -      |
+|     简单游戏      | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | 中等 |    ☑️     |     -      |
+|     困难游戏      | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game) | 困难 |    ☑️     |     -      |
+|     困难游戏      | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
