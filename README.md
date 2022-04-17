@@ -57,6 +57,9 @@
 |     简单游戏      | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | 中等 |    ☑️     |     -      |
 |     困难游戏      | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game) | 困难 |    ☑️     |     -      |
 |     困难游戏      | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 |    ☑️     |     -      |
+|   加权最短路径    | [787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 中等 |    ☑️     |     -      |
+|     经典难题      | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 |    ☑️     |            |
+|     经典难题      | [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | 困难 |    ☑️     |     ☑️      |
 
 ## 2. 数据结构
 
