@@ -58,8 +58,23 @@
 |     困难游戏      | [174. 地下城游戏](https://leetcode-cn.com/problems/dungeon-game) | 困难 |    ☑️     |     -      |
 |     困难游戏      | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) | 困难 |    ☑️     |     -      |
 |   加权最短路径    | [787. K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 中等 |    ☑️     |     -      |
-|     经典难题      | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 |    ☑️     |            |
+|     经典难题      | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 |    ☑️     |     -      |
 |     经典难题      | [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | 困难 |    ☑️     |     ☑️      |
+|     经典例题      | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 中等 |    ☑️     |     -      |
+|     经典例题      | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 |    ☑️     |     -      |
+|     经典例题      | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 |    ☑️     |     -      |
+
+### 1.4 贪心算法
+
+|    类型    |                             力扣                             | 难度 | java代码 | python代码 |
+| :--------: | :----------------------------------------------------------: | :--: | :------: | :--------: |
+|  区间调度  | [[435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
+|  区间调度  | [[452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
+| 扫描线技巧 | [253. 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii/)✨ | 中等 |    ☑️     |     -      |
+|  区间问题  | [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | 中等 |    ☑️     |     -      |
+|  区间问题  | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 中等 |    ☑️     |     -      |
+|  区间问题  | [986. 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/) | 中等 |    ☑️     |     -      |
+|  区间问题  | [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
