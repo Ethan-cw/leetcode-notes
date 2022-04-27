@@ -64,7 +64,7 @@
 |     经典例题      | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | 中等 |    ☑️     |     -      |
 |     经典例题      | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | 中等 |    ☑️     |     -      |
 
-### 1.4 贪心算法
+### 1.4 [贪心算法](https://github.com/Ethan-cw/leetcode-notes/tree/main/算法/贪心算法)
 
 |    类型    |                             力扣                             | 难度 | java代码 | python代码 |
 | :--------: | :----------------------------------------------------------: | :--: | :------: | :--------: |
@@ -75,6 +75,8 @@
 |  区间问题  | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 中等 |    ☑️     |     -      |
 |  区间问题  | [986. 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/) | 中等 |    ☑️     |     -      |
 |  区间问题  | [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 中等 |    ☑️     |     -      |
+|  跳跃游戏  | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 简单 |    ☑️     |     -      |
+|  跳跃游戏  | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 中等 |    ☑️     |     -      |
 
 ## 2. 数据结构
 
