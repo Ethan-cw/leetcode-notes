@@ -68,8 +68,8 @@
 
 |    类型    |                             力扣                             | 难度 | java代码 | python代码 |
 | :--------: | :----------------------------------------------------------: | :--: | :------: | :--------: |
-|  区间调度  | [[435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
-|  区间调度  | [[452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
+|  区间调度  | [[435. 无重叠区间](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
+|  区间调度  | [[452. 用最少数量的箭引爆气球]](https://leetcode-cn.com/problems/fibonacci-number) | 中等 |    ☑️     |     -      |
 | 扫描线技巧 | [253. 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii/)✨ | 中等 |    ☑️     |     -      |
 |  区间问题  | [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | 中等 |    ☑️     |     -      |
 |  区间问题  | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 中等 |    ☑️     |     -      |
